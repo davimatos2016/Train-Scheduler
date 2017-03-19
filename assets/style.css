@@ -1,0 +1,9 @@
+.jumbotron{
+	background-color: #337ab7;
+	color: #fffefc;
+}
+
+.panel-default>.panel-heading{
+	background-color: #337ab7;
+	color: #fffefc;
+}
